@@ -30,4 +30,7 @@ Be aware that disabling security software can leave the system vulnerable to mal
 # Conclusion
 
 This code provides a straightforward method for blocking the operation of security software applications on a Windows system. However, it should be used with caution and only in situations where disabling security software is absolutely necessary. Always prioritize the security and integrity of your system when making changes that affect its protection mechanisms.
-
+```sh
+"We hereby declare that we disclaim any liability for any improper use of the software. Thank you for your understanding."
+```
+----
